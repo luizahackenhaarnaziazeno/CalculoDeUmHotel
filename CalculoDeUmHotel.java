@@ -1,12 +1,5 @@
-
-/**
- * Escreva uma descrição da classe EAvaliacao1 aqui.
- * 
- * @author (seu nome) 
- * @version (um número da versão ou uma data)
- */
 import java.util.Scanner;
-public class EAvaliacao1
+public class CalculoDeUmHotel
 {
     public static void main(String args[]){
         Scanner trabalho=new Scanner(System.in);
