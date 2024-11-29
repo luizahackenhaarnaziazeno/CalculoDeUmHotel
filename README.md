@@ -1,6 +1,6 @@
 <div align="center">
-## Análise Financeira de Promoção em Hotel
   
+## Análise Financeira de Promoção em Hotel
 Este programa em Java simula a análise financeira de um hotel ao oferecer uma promoção de 25% de desconto nas diárias. O objetivo é calcular os impactos financeiros da promoção considerando diferentes taxas de ocupação e estimar as perdas ou ganhos que o hotel pode ter com essa oferta.
 
 Funcionalidade
