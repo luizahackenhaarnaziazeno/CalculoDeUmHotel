@@ -20,7 +20,7 @@ Forneça as informações solicitadas: número de apartamentos e o valor da diá
 O programa calculará e exibirá os resultados financeiros da promoção.
 
 
-## Tecnologias Utilizadas:
+## Linguagem Utilizada:
 <div style="display: inline_block"><br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
 
